@@ -42,11 +42,11 @@ Press "Enter" or click on the search button.
 After submitting your symptoms, you will receive information about the disease you might have.
 Additionally, you will be provided with a list of suggested doctors based on the machine learning algorithm implemented using Python.
 
-Example: now if we input - <h2>itching</h2>
+Example: now if we input - itching
 
 the output will be a list of 5 doctors such as-
 
-You have been Diagnosed with :  <h2>Fungal infection</h2>
+You have been Diagnosed with : Fungal infection
 
 The details of the suggested doctors are:
 

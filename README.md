@@ -42,6 +42,25 @@ Press "Enter" or click on the search button.
 After submitting your symptoms, you will receive information about the disease you might have.
 Additionally, you will be provided with a list of suggested doctors based on the machine learning algorithm implemented using Python.
 
+Example: now if we input - <b>itching</b>
+the output will be a list of 5 doctors such as-
+You have been Diagnosed with :  <b>Fungal infection</b>
+The details of the suggested doctors are:
+Name:Dr.Â Sanjosh Singh,Â DO     Specialization: Dermatolog      Rating:5        Schedule:Saturday - 5pm to 6pm
+Name:Dr.Â Bradley Glodny,Â MD    Specialization: Dermatolog      Rating:1        Schedule:Sunday - 1pm to 2pm
+Name:Dr.Â Vladyslava Doktor,Â DO         Specialization: Dermatolog      Rating:4        Schedule:Sunday - 6pm to 7pm
+Name:Dr.Â Morgan Rabach,Â MD     Specialization: Dermatolog      Rating:4        Schedule:Friday - 12pm to 1pm
+Name:Dr.Â Alison Gruen,Â MD      Specialization: Dermatolog      Rating:4        Schedule:Thursday - 11am to 12pm
+Name:Dr.Â Robert L. Buka,Â MD, JD        Specialization: Dermatolog      Rating:2        Schedule:Tuesday - 11am to 12pm
+Name:Dr.Â Lyubov Avshalumova,Â DO        Specialization: Dermatolog      Rating:4        Schedule:Tuesday - 12pm to 1pm
+Name:Dr.Â Lyubov Avshalumova,Â DO        Specialization: Dermatolog      Rating:3        Schedule:Friday - 1pm to 2pm
+Name:Dr.Â Dina Began,Â MD        Specialization: Dermatolog      Rating:5        Schedule:Wednesday - 10am to 11am
+Name:Dr.Â Uchenna Okereke,Â MD   Specialization: Dermatolog      Rating:1        Schedule:Tuesday - 9am to 10am
+
+
+
+
+
 
 
 

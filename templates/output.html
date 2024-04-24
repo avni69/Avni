@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Suggestions</title>
+    <link rel="stylesheet" href="../static/css/output.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Doctor Suggestions for Symptoms</h1>
+        <div class="result"> 
+            <h4 style="color: blue;">You have been diagnosed with: </h4>
+            <div style="color: red;"> {{disease}} </div>
+        </div> 
+        <div id="symptom-display"></div>
+        <table id="doctor-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Specialization</th>
+                    <th>Rating</th>
+                    <th>Schedule</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>{{name0}}</td>
+                    <td>{{specialization0}}</td>
+                    <td>{{rating0}}</td>
+                    <td>{{schedule0}}</td>
+
+                </tr>
+
+                <tr>
+                    <td>{{name1}}</td>
+                    <td>{{specialization1}}</td>
+                    <td>{{rating1}}</td>
+                    <td>{{schedule1}}</td>
+
+                </tr>
+
+                <tr>
+                    <td>{{name2}}</td>
+                    <td>{{specialization2}}</td>
+                    <td>{{rating2}}</td>
+                    <td>{{schedule2}}</td>
+                </tr>
+
+
+                <tr>
+                    <td>{{name3}}</td>
+                    <td>{{specialization3}}</td>
+                    <td>{{rating3}}</td>
+                    <td>{{schedule3}}</td>
+
+                </tr>
+
+
+                <tr>
+                    <td>{{name4}}</td>
+                    <td>{{specialization4}}</td>
+                    <td>{{rating4}}</td>
+                    <td>{{schedule4}}</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

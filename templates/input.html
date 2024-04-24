@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Symptoms</title>
+    <link rel="stylesheet" href="../static/css/input.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Input Symptoms</h1>
+        <form class="input-form" action="/output" method="POST">
+            <label for="symptoms"> Symptoms: </label>
+            <input type="text" id="symptoms" name="symptoms">
+            <!-- <button type="submit" id="submit-button"> Submit </button> -->
+            <div style="color: rgb(212, 105, 105);"> <h3>Press Enter!!</h3></div>
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            document.getElementById('submit-button').addEventListener('click', function () {
+                var symptoms = document.getElementById('symptoms').value;
+                window.location.href = '/output' + encodeURIComponent(symptoms);
+            });
+        });
+    </script>
+</body>
+
+</html>

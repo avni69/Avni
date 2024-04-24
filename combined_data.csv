@@ -1,0 +1,391 @@
+Disease,speciality,Doctor's Name,Doctor_Rating,Schedule
+Fungal infection,Dermatolog,"Dr. Sanjosh Singh, DO",5,Saturday - 5pm to 6pm
+Fungal infection,Dermatolog,"Dr. Bradley Glodny, MD",1,Sunday - 1pm to 2pm
+Fungal infection,Dermatolog,"Dr. Vladyslava Doktor, DO",4,Sunday - 6pm to 7pm
+Fungal infection,Dermatolog,"Dr. Morgan Rabach, MD",4,Friday - 12pm to 1pm
+Fungal infection,Dermatolog,"Dr. Alison Gruen, MD",4,Thursday - 11am to 12pm
+Fungal infection,Dermatolog,"Dr. Robert L. Buka, MD, JD",2,Tuesday - 11am to 12pm
+Fungal infection,Dermatolog,"Dr. Lyubov Avshalumova, DO",4,Tuesday - 12pm to 1pm
+Fungal infection,Dermatolog,"Dr. Lyubov Avshalumova, DO",3,Friday - 1pm to 2pm
+Fungal infection,Dermatolog,"Dr. Dina Began, MD",5,Wednesday - 10am to 11am
+Fungal infection,Dermatolog,"Dr. Uchenna Okereke, MD",1,Tuesday - 9am to 10am
+Acne,Dermatolog,"Dr. Sanjosh Singh, DO",1,Monday - 1pm to 2pm
+Acne,Dermatolog,"Dr. Bradley Glodny, MD",5,Thursday - 2pm to 3pm
+Acne,Dermatolog,"Dr. Vladyslava Doktor, DO",3,Sunday - 12pm to 1pm
+Acne,Dermatolog,"Dr. Morgan Rabach, MD",2,Wednesday - 6pm to 7pm
+Acne,Dermatolog,"Dr. Alison Gruen, MD",1,Monday - 10am to 11am
+Acne,Dermatolog,"Dr. Robert L. Buka, MD, JD",2,Friday - 1pm to 2pm
+Acne,Dermatolog,"Dr. Lyubov Avshalumova, DO",2,Wednesday - 9am to 10am
+Acne,Dermatolog,"Dr. Lyubov Avshalumova, DO",1,Monday - 12pm to 1pm
+Acne,Dermatolog,"Dr. Dina Began, MD",2,Tuesday - 2pm to 3pm
+Acne,Dermatolog,"Dr. Uchenna Okereke, MD",5,Saturday - 10am to 11am
+Psoriasis,Dermatolog,"Dr. Sanjosh Singh, DO",4,Saturday - 5pm to 6pm
+Psoriasis,Dermatolog,"Dr. Bradley Glodny, MD",1,Sunday - 1pm to 2pm
+Psoriasis,Dermatolog,"Dr. Vladyslava Doktor, DO",4,Thursday - 2pm to 3pm
+Psoriasis,Dermatolog,"Dr. Morgan Rabach, MD",1,Thursday - 12pm to 1pm
+Psoriasis,Dermatolog,"Dr. Alison Gruen, MD",3,Sunday - 1pm to 2pm
+Psoriasis,Dermatolog,"Dr. Robert L. Buka, MD, JD",4,Thursday - 9am to 10am
+Psoriasis,Dermatolog,"Dr. Lyubov Avshalumova, DO",1,Saturday - 6pm to 7pm
+Psoriasis,Dermatolog,"Dr. Lyubov Avshalumova, DO",2,Thursday - 4pm to 5pm
+Psoriasis,Dermatolog,"Dr. Dina Began, MD",4,Saturday - 2pm to 3pm
+Psoriasis,Dermatolog,"Dr. Uchenna Okereke, MD",4,Friday - 5pm to 6pm
+Impetigo,Dermatolog,"Dr. Sanjosh Singh, DO",4,Thursday - 9am to 10am
+Impetigo,Dermatolog,"Dr. Bradley Glodny, MD",1,Monday - 12pm to 1pm
+Impetigo,Dermatolog,"Dr. Vladyslava Doktor, DO",2,Sunday - 6pm to 7pm
+Impetigo,Dermatolog,"Dr. Morgan Rabach, MD",2,Wednesday - 12pm to 1pm
+Impetigo,Dermatolog,"Dr. Alison Gruen, MD",2,Wednesday - 4pm to 5pm
+Impetigo,Dermatolog,"Dr. Robert L. Buka, MD, JD",1,Monday - 12pm to 1pm
+Impetigo,Dermatolog,"Dr. Lyubov Avshalumova, DO",3,Wednesday - 9am to 10am
+Impetigo,Dermatolog,"Dr. Lyubov Avshalumova, DO",5,Thursday - 3pm to 4pm
+Impetigo,Dermatolog,"Dr. Dina Began, MD",4,Tuesday - 6pm to 7pm
+Impetigo,Dermatolog,"Dr. Uchenna Okereke, MD",4,Wednesday - 6pm to 7pm
+Allergy,Allergist,"Dr. Roshni R. Naik, MD",3,Friday - 6pm to 7pm
+Allergy,Allergist,"Dr. Roshni R. Naik, MD",5,Saturday - 10am to 11am
+Allergy,Allergist,"Dr. Vahid Rahimian, DO",3,Thursday - 11am to 12pm
+Allergy,Allergist,"Dr. Ira Finegold, MD, MS",1,Friday - 6pm to 7pm
+Allergy,Allergist,"Dr. Neha Sirohi, MD",1,Friday - 6pm to 7pm
+Allergy,Allergist,"Dr. Tim Mainardi, MD",5,Sunday - 1pm to 2pm
+Allergy,Allergist,"Dr. Mariana Marcu, MD",1,Tuesday - 11am to 12pm
+Allergy,Allergist,"Dr. Lisa Ellman-Grunther, MD",5,Saturday - 4pm to 5pm
+Allergy,Allergist,"Dr. Julie Kuriakose, MD",2,Wednesday - 12pm to 1pm
+Allergy,Allergist,"Dr. Rushita Mehta, MD",5,Tuesday - 4pm to 5pm
+GERD,Gastroente,"Dr. Jonathan Erber, MD",2,Wednesday - 3pm to 4pm
+GERD,Gastroente,"Dr. Anthony Starpoli, MD",3,Sunday - 11am to 12pm
+GERD,Gastroente,"Dr. Michael Blechman, MD",3,Wednesday - 12pm to 1pm
+GERD,Gastroente,"Dr. Michael Blechman, MD",1,Sunday - 9am to 10am
+GERD,Gastroente,"Dr. Murray Orbuch, MD",2,Saturday - 5pm to 6pm
+GERD,Gastroente,"Dr. Murray Orbuch, MD",2,Monday - 4pm to 5pm
+GERD,Gastroente,"Dr. Jahnavi Naik, MD",2,Sunday - 3pm to 4pm
+GERD,Gastroente,"Dr. Jonathan Erber, MD",2,Saturday - 2pm to 3pm
+GERD,Gastroente,"Dr. Murray Orbuch, MD",4,Sunday - 6pm to 7pm
+GERD,Gastroente,"Dr. Anthony Ng, MD",4,Sunday - 2pm to 3pm
+Chronic cholestasis,Gastroente,"Dr. Jonathan Erber, MD",3,Thursday - 11am to 12pm
+Chronic cholestasis,Gastroente,"Dr. Anthony Starpoli, MD",4,Friday - 10am to 11am
+Chronic cholestasis,Gastroente,"Dr. Michael Blechman, MD",1,Tuesday - 11am to 12pm
+Chronic cholestasis,Gastroente,"Dr. Michael Blechman, MD",4,Wednesday - 2pm to 3pm
+Chronic cholestasis,Gastroente,"Dr. Murray Orbuch, MD",5,Thursday - 3pm to 4pm
+Chronic cholestasis,Gastroente,"Dr. Murray Orbuch, MD",2,Friday - 11am to 12pm
+Chronic cholestasis,Gastroente,"Dr. Jahnavi Naik, MD",3,Friday - 11am to 12pm
+Chronic cholestasis,Gastroente,"Dr. Jonathan Erber, MD",5,Tuesday - 9am to 10am
+Chronic cholestasis,Gastroente,"Dr. Murray Orbuch, MD",4,Tuesday - 9am to 10am
+Chronic cholestasis,Gastroente,"Dr. Anthony Ng, MD",5,Wednesday - 5pm to 6pm
+Peptic ulcer disease,Gastroente,"Dr. Jonathan Erber, MD",5,Thursday - 9am to 10am
+Peptic ulcer disease,Gastroente,"Dr. Anthony Starpoli, MD",5,Wednesday - 5pm to 6pm
+Peptic ulcer disease,Gastroente,"Dr. Michael Blechman, MD",4,Monday - 10am to 11am
+Peptic ulcer disease,Gastroente,"Dr. Michael Blechman, MD",5,Monday - 2pm to 3pm
+Peptic ulcer disease,Gastroente,"Dr. Murray Orbuch, MD",5,Monday - 11am to 12pm
+Peptic ulcer disease,Gastroente,"Dr. Murray Orbuch, MD",5,Thursday - 2pm to 3pm
+Peptic ulcer disease,Gastroente,"Dr. Jahnavi Naik, MD",1,Thursday - 12pm to 1pm
+Peptic ulcer disease,Gastroente,"Dr. Jonathan Erber, MD",5,Monday - 3pm to 4pm
+Peptic ulcer disease,Gastroente,"Dr. Murray Orbuch, MD",4,Friday - 3pm to 4pm
+Peptic ulcer disease,Gastroente,"Dr. Anthony Ng, MD",3,Friday - 12pm to 1pm
+Gastroenteritis,Gastroente,"Dr. Jonathan Erber, MD",1,Sunday - 11am to 12pm
+Gastroenteritis,Gastroente,"Dr. Anthony Starpoli, MD",2,Friday - 3pm to 4pm
+Gastroenteritis,Gastroente,"Dr. Michael Blechman, MD",2,Saturday - 2pm to 3pm
+Gastroenteritis,Gastroente,"Dr. Michael Blechman, MD",4,Saturday - 6pm to 7pm
+Gastroenteritis,Gastroente,"Dr. Murray Orbuch, MD",1,Friday - 3pm to 4pm
+Gastroenteritis,Gastroente,"Dr. Murray Orbuch, MD",1,Saturday - 2pm to 3pm
+Gastroenteritis,Gastroente,"Dr. Jahnavi Naik, MD",2,Thursday - 10am to 11am
+Gastroenteritis,Gastroente,"Dr. Jonathan Erber, MD",3,Thursday - 12pm to 1pm
+Gastroenteritis,Gastroente,"Dr. Murray Orbuch, MD",5,Wednesday - 5pm to 6pm
+Gastroenteritis,Gastroente,"Dr. Anthony Ng, MD",3,Sunday - 6pm to 7pm
+Jaundice,Gastroente,"Dr. Jonathan Erber, MD",1,Saturday - 2pm to 3pm
+Jaundice,Gastroente,"Dr. Anthony Starpoli, MD",4,Sunday - 9am to 10am
+Jaundice,Gastroente,"Dr. Michael Blechman, MD",3,Tuesday - 4pm to 5pm
+Jaundice,Gastroente,"Dr. Michael Blechman, MD",3,Saturday - 10am to 11am
+Jaundice,Gastroente,"Dr. Murray Orbuch, MD",1,Saturday - 3pm to 4pm
+Jaundice,Gastroente,"Dr. Murray Orbuch, MD",2,Friday - 3pm to 4pm
+Jaundice,Gastroente,"Dr. Jahnavi Naik, MD",1,Sunday - 5pm to 6pm
+Jaundice,Gastroente,"Dr. Jonathan Erber, MD",3,Saturday - 2pm to 3pm
+Jaundice,Gastroente,"Dr. Murray Orbuch, MD",3,Thursday - 12pm to 1pm
+Jaundice,Gastroente,"Dr. Anthony Ng, MD",4,Wednesday - 11am to 12pm
+hepatitis A,Gastroente,"Dr. Jonathan Erber, MD",3,Tuesday - 6pm to 7pm
+hepatitis A,Gastroente,"Dr. Anthony Starpoli, MD",4,Thursday - 11am to 12pm
+hepatitis A,Gastroente,"Dr. Michael Blechman, MD",3,Saturday - 1pm to 2pm
+hepatitis A,Gastroente,"Dr. Michael Blechman, MD",2,Tuesday - 2pm to 3pm
+hepatitis A,Gastroente,"Dr. Murray Orbuch, MD",3,Sunday - 5pm to 6pm
+hepatitis A,Gastroente,"Dr. Murray Orbuch, MD",4,Thursday - 2pm to 3pm
+hepatitis A,Gastroente,"Dr. Jahnavi Naik, MD",4,Monday - 1pm to 2pm
+hepatitis A,Gastroente,"Dr. Jonathan Erber, MD",4,Wednesday - 10am to 11am
+hepatitis A,Gastroente,"Dr. Murray Orbuch, MD",3,Monday - 10am to 11am
+hepatitis A,Gastroente,"Dr. Anthony Ng, MD",4,Wednesday - 10am to 11am
+Hepatitis B,Gastroente,"Dr. Jonathan Erber, MD",5,Sunday - 10am to 11am
+Hepatitis B,Gastroente,"Dr. Anthony Starpoli, MD",2,Saturday - 9am to 10am
+Hepatitis B,Gastroente,"Dr. Michael Blechman, MD",3,Friday - 10am to 11am
+Hepatitis B,Gastroente,"Dr. Michael Blechman, MD",4,Tuesday - 3pm to 4pm
+Hepatitis B,Gastroente,"Dr. Murray Orbuch, MD",2,Sunday - 3pm to 4pm
+Hepatitis B,Gastroente,"Dr. Murray Orbuch, MD",3,Monday - 11am to 12pm
+Hepatitis B,Gastroente,"Dr. Jahnavi Naik, MD",2,Thursday - 4pm to 5pm
+Hepatitis B,Gastroente,"Dr. Jonathan Erber, MD",5,Friday - 6pm to 7pm
+Hepatitis B,Gastroente,"Dr. Murray Orbuch, MD",3,Sunday - 11am to 12pm
+Hepatitis B,Gastroente,"Dr. Anthony Ng, MD",4,Thursday - 1pm to 2pm
+Hepatitis C,Gastroente,"Dr. Jonathan Erber, MD",1,Tuesday - 9am to 10am
+Hepatitis C,Gastroente,"Dr. Anthony Starpoli, MD",4,Friday - 3pm to 4pm
+Hepatitis C,Gastroente,"Dr. Michael Blechman, MD",3,Tuesday - 11am to 12pm
+Hepatitis C,Gastroente,"Dr. Michael Blechman, MD",4,Friday - 4pm to 5pm
+Hepatitis C,Gastroente,"Dr. Murray Orbuch, MD",1,Thursday - 9am to 10am
+Hepatitis C,Gastroente,"Dr. Murray Orbuch, MD",1,Friday - 2pm to 3pm
+Hepatitis C,Gastroente,"Dr. Jahnavi Naik, MD",1,Friday - 9am to 10am
+Hepatitis C,Gastroente,"Dr. Jonathan Erber, MD",4,Saturday - 11am to 12pm
+Hepatitis C,Gastroente,"Dr. Murray Orbuch, MD",3,Thursday - 10am to 11am
+Hepatitis C,Gastroente,"Dr. Anthony Ng, MD",4,Wednesday - 10am to 11am
+Hepatitis D,Gastroente,"Dr. Jonathan Erber, MD",1,Sunday - 12pm to 1pm
+Hepatitis D,Gastroente,"Dr. Anthony Starpoli, MD",5,Wednesday - 1pm to 2pm
+Hepatitis D,Gastroente,"Dr. Michael Blechman, MD",1,Wednesday - 10am to 11am
+Hepatitis D,Gastroente,"Dr. Michael Blechman, MD",1,Friday - 9am to 10am
+Hepatitis D,Gastroente,"Dr. Murray Orbuch, MD",3,Wednesday - 11am to 12pm
+Hepatitis D,Gastroente,"Dr. Murray Orbuch, MD",4,Friday - 4pm to 5pm
+Hepatitis D,Gastroente,"Dr. Jahnavi Naik, MD",3,Friday - 9am to 10am
+Hepatitis D,Gastroente,"Dr. Jonathan Erber, MD",4,Wednesday - 3pm to 4pm
+Hepatitis D,Gastroente,"Dr. Murray Orbuch, MD",1,Tuesday - 11am to 12pm
+Hepatitis D,Gastroente,"Dr. Anthony Ng, MD",1,Friday - 6pm to 7pm
+Hepatitis E,Gastroente,"Dr. Jonathan Erber, MD",1,Tuesday - 2pm to 3pm
+Hepatitis E,Gastroente,"Dr. Anthony Starpoli, MD",4,Friday - 1pm to 2pm
+Hepatitis E,Gastroente,"Dr. Michael Blechman, MD",1,Tuesday - 5pm to 6pm
+Hepatitis E,Gastroente,"Dr. Michael Blechman, MD",3,Tuesday - 2pm to 3pm
+Hepatitis E,Gastroente,"Dr. Murray Orbuch, MD",3,Monday - 10am to 11am
+Hepatitis E,Gastroente,"Dr. Murray Orbuch, MD",1,Wednesday - 12pm to 1pm
+Hepatitis E,Gastroente,"Dr. Jahnavi Naik, MD",5,Tuesday - 11am to 12pm
+Hepatitis E,Gastroente,"Dr. Jonathan Erber, MD",4,Monday - 11am to 12pm
+Hepatitis E,Gastroente,"Dr. Murray Orbuch, MD",5,Friday - 5pm to 6pm
+Hepatitis E,Gastroente,"Dr. Anthony Ng, MD",1,Wednesday - 6pm to 7pm
+Alcoholic hepatitis,Gastroente,"Dr. Jonathan Erber, MD",5,Monday - 4pm to 5pm
+Alcoholic hepatitis,Gastroente,"Dr. Anthony Starpoli, MD",4,Wednesday - 5pm to 6pm
+Alcoholic hepatitis,Gastroente,"Dr. Michael Blechman, MD",4,Wednesday - 12pm to 1pm
+Alcoholic hepatitis,Gastroente,"Dr. Michael Blechman, MD",5,Friday - 12pm to 1pm
+Alcoholic hepatitis,Gastroente,"Dr. Murray Orbuch, MD",2,Saturday - 3pm to 4pm
+Alcoholic hepatitis,Gastroente,"Dr. Murray Orbuch, MD",4,Monday - 12pm to 1pm
+Alcoholic hepatitis,Gastroente,"Dr. Jahnavi Naik, MD",1,Sunday - 12pm to 1pm
+Alcoholic hepatitis,Gastroente,"Dr. Jonathan Erber, MD",1,Tuesday - 3pm to 4pm
+Alcoholic hepatitis,Gastroente,"Dr. Murray Orbuch, MD",1,Thursday - 11am to 12pm
+Alcoholic hepatitis,Gastroente,"Dr. Anthony Ng, MD",2,Wednesday - 11am to 12pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Jonathan Erber, MD",1,Sunday - 1pm to 2pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Anthony Starpoli, MD",5,Thursday - 3pm to 4pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Michael Blechman, MD",2,Monday - 1pm to 2pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Michael Blechman, MD",4,Saturday - 6pm to 7pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Murray Orbuch, MD",2,Wednesday - 10am to 11am
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Murray Orbuch, MD",1,Friday - 3pm to 4pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Jahnavi Naik, MD",1,Tuesday - 4pm to 5pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Jonathan Erber, MD",5,Friday - 2pm to 3pm
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Murray Orbuch, MD",4,Sunday - 10am to 11am
+Dimorphic hemmorhoids(piles),Gastroente,"Dr. Anthony Ng, MD",4,Wednesday - 3pm to 4pm
+Drug Reaction,Internist,"Dr. Melissa Chan, MD",2,Saturday - 3pm to 4pm
+Drug Reaction,Internist,"Dr. Melissa Chan, MD",1,Sunday - 3pm to 4pm
+Drug Reaction,Internist,"Dr. Ami Patel, MD",1,Thursday - 11am to 12pm
+Drug Reaction,Internist,"Dr. Robert J. Bos, MD",2,Saturday - 11am to 12pm
+Drug Reaction,Internist,"Dr. Ami Patel, MD",3,Wednesday - 12pm to 1pm
+Drug Reaction,Internist,"Dr. Michael Aziz, MD",1,Wednesday - 6pm to 7pm
+Drug Reaction,Internist,"Dr. Rachel Cohen, MD, MS",4,Thursday - 5pm to 6pm
+Drug Reaction,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",2,Saturday - 1pm to 2pm
+Drug Reaction,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",2,Saturday - 10am to 11am
+Drug Reaction,Internist,"Dr. Zobidatte Moussa, MD",5,Thursday - 2pm to 3pm
+Diabetes,Internist,"Dr. Melissa Chan, MD",1,Monday - 11am to 12pm
+Diabetes,Internist,"Dr. Melissa Chan, MD",1,Tuesday - 6pm to 7pm
+Diabetes,Internist,"Dr. Ami Patel, MD",4,Saturday - 3pm to 4pm
+Diabetes,Internist,"Dr. Robert J. Bos, MD",3,Friday - 9am to 10am
+Diabetes,Internist,"Dr. Ami Patel, MD",4,Monday - 2pm to 3pm
+Diabetes,Internist,"Dr. Michael Aziz, MD",3,Saturday - 2pm to 3pm
+Diabetes,Internist,"Dr. Rachel Cohen, MD, MS",5,Thursday - 10am to 11am
+Diabetes,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",4,Monday - 9am to 10am
+Diabetes,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",4,Monday - 9am to 10am
+Diabetes,Internist,"Dr. Zobidatte Moussa, MD",1,Sunday - 9am to 10am
+Hypertension,Internist,"Dr. Melissa Chan, MD",4,Saturday - 4pm to 5pm
+Hypertension,Internist,"Dr. Melissa Chan, MD",1,Sunday - 12pm to 1pm
+Hypertension,Internist,"Dr. Ami Patel, MD",5,Saturday - 1pm to 2pm
+Hypertension,Internist,"Dr. Robert J. Bos, MD",3,Thursday - 1pm to 2pm
+Hypertension,Internist,"Dr. Ami Patel, MD",4,Saturday - 10am to 11am
+Hypertension,Internist,"Dr. Michael Aziz, MD",5,Thursday - 3pm to 4pm
+Hypertension,Internist,"Dr. Rachel Cohen, MD, MS",1,Friday - 9am to 10am
+Hypertension,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",3,Saturday - 9am to 10am
+Hypertension,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",4,Wednesday - 12pm to 1pm
+Hypertension,Internist,"Dr. Zobidatte Moussa, MD",4,Saturday - 12pm to 1pm
+Common Cold,Internist,"Dr. Melissa Chan, MD",2,Monday - 9am to 10am
+Common Cold,Internist,"Dr. Melissa Chan, MD",4,Tuesday - 1pm to 2pm
+Common Cold,Internist,"Dr. Ami Patel, MD",5,Friday - 2pm to 3pm
+Common Cold,Internist,"Dr. Robert J. Bos, MD",4,Monday - 5pm to 6pm
+Common Cold,Internist,"Dr. Ami Patel, MD",4,Monday - 10am to 11am
+Common Cold,Internist,"Dr. Michael Aziz, MD",2,Saturday - 6pm to 7pm
+Common Cold,Internist,"Dr. Rachel Cohen, MD, MS",2,Tuesday - 3pm to 4pm
+Common Cold,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",2,Sunday - 10am to 11am
+Common Cold,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",4,Friday - 9am to 10am
+Common Cold,Internist,"Dr. Zobidatte Moussa, MD",3,Friday - 4pm to 5pm
+Hypoglycemia,Internist,"Dr. Melissa Chan, MD",3,Sunday - 4pm to 5pm
+Hypoglycemia,Internist,"Dr. Melissa Chan, MD",5,Thursday - 4pm to 5pm
+Hypoglycemia,Internist,"Dr. Ami Patel, MD",4,Saturday - 3pm to 4pm
+Hypoglycemia,Internist,"Dr. Robert J. Bos, MD",2,Wednesday - 3pm to 4pm
+Hypoglycemia,Internist,"Dr. Ami Patel, MD",3,Monday - 11am to 12pm
+Hypoglycemia,Internist,"Dr. Michael Aziz, MD",4,Thursday - 4pm to 5pm
+Hypoglycemia,Internist,"Dr. Rachel Cohen, MD, MS",2,Sunday - 4pm to 5pm
+Hypoglycemia,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",5,Sunday - 11am to 12pm
+Hypoglycemia,Internist,"Dr. Carlos Rodriguez-Jaquez, MD",3,Sunday - 10am to 11am
+Hypoglycemia,Internist,"Dr. Zobidatte Moussa, MD",3,Thursday - 4pm to 5pm
+AIDS,Infectious,"Dr. William Mandell, MD",1,Saturday - 9am to 10am
+AIDS,Infectious,"Dr. Dennis Karter, MD",2,Saturday - 1pm to 2pm
+AIDS,Infectious,"Dr. Dennis Karter, MD",1,Saturday - 2pm to 3pm
+AIDS,Infectious,"Dr. David Bekhor, MD",5,Thursday - 5pm to 6pm
+AIDS,Infectious,"Dr. Jana Preis, MD, MPH",1,Monday - 10am to 11am
+AIDS,Infectious,"Dr. William Mandell, MD",4,Saturday - 1pm to 2pm
+AIDS,Infectious,"Dr. William Mandell, MD",3,Tuesday - 2pm to 3pm
+AIDS,Infectious,"Dr. Dennis Karter, MD",1,Monday - 3pm to 4pm
+AIDS,Infectious,"Dr. Dennis Karter, MD",1,Monday - 5pm to 6pm
+AIDS,Infectious,"Dr. Nadim Salomon, MD",2,Sunday - 12pm to 1pm
+Malaria,Infectious,"Dr. William Mandell, MD",2,Friday - 1pm to 2pm
+Malaria,Infectious,"Dr. Dennis Karter, MD",1,Wednesday - 12pm to 1pm
+Malaria,Infectious,"Dr. Dennis Karter, MD",4,Sunday - 2pm to 3pm
+Malaria,Infectious,"Dr. David Bekhor, MD",1,Wednesday - 6pm to 7pm
+Malaria,Infectious,"Dr. Jana Preis, MD, MPH",4,Monday - 10am to 11am
+Malaria,Infectious,"Dr. William Mandell, MD",1,Thursday - 5pm to 6pm
+Malaria,Infectious,"Dr. William Mandell, MD",5,Thursday - 10am to 11am
+Malaria,Infectious,"Dr. Dennis Karter, MD",5,Sunday - 2pm to 3pm
+Malaria,Infectious,"Dr. Dennis Karter, MD",1,Sunday - 5pm to 6pm
+Malaria,Infectious,"Dr. Nadim Salomon, MD",2,Monday - 12pm to 1pm
+Dengue,Infectious,"Dr. William Mandell, MD",4,Saturday - 10am to 11am
+Dengue,Infectious,"Dr. Dennis Karter, MD",5,Monday - 9am to 10am
+Dengue,Infectious,"Dr. Dennis Karter, MD",4,Saturday - 6pm to 7pm
+Dengue,Infectious,"Dr. David Bekhor, MD",3,Tuesday - 3pm to 4pm
+Dengue,Infectious,"Dr. Jana Preis, MD, MPH",2,Monday - 4pm to 5pm
+Dengue,Infectious,"Dr. William Mandell, MD",2,Saturday - 6pm to 7pm
+Dengue,Infectious,"Dr. William Mandell, MD",3,Tuesday - 9am to 10am
+Dengue,Infectious,"Dr. Dennis Karter, MD",2,Monday - 2pm to 3pm
+Dengue,Infectious,"Dr. Dennis Karter, MD",5,Sunday - 12pm to 1pm
+Dengue,Infectious,"Dr. Nadim Salomon, MD",3,Sunday - 10am to 11am
+Typhoid,Infectious,"Dr. William Mandell, MD",5,Wednesday - 9am to 10am
+Typhoid,Infectious,"Dr. Dennis Karter, MD",5,Sunday - 9am to 10am
+Typhoid,Infectious,"Dr. Dennis Karter, MD",3,Friday - 11am to 12pm
+Typhoid,Infectious,"Dr. David Bekhor, MD",4,Saturday - 11am to 12pm
+Typhoid,Infectious,"Dr. Jana Preis, MD, MPH",4,Monday - 2pm to 3pm
+Typhoid,Infectious,"Dr. William Mandell, MD",2,Sunday - 3pm to 4pm
+Typhoid,Infectious,"Dr. William Mandell, MD",3,Friday - 10am to 11am
+Typhoid,Infectious,"Dr. Dennis Karter, MD",5,Saturday - 1pm to 2pm
+Typhoid,Infectious,"Dr. Dennis Karter, MD",4,Saturday - 2pm to 3pm
+Typhoid,Infectious,"Dr. Nadim Salomon, MD",4,Sunday - 12pm to 1pm
+Tuberculosis,Infectious,"Dr. William Mandell, MD",2,Monday - 10am to 11am
+Tuberculosis,Infectious,"Dr. Dennis Karter, MD",2,Friday - 11am to 12pm
+Tuberculosis,Infectious,"Dr. Dennis Karter, MD",2,Tuesday - 4pm to 5pm
+Tuberculosis,Infectious,"Dr. David Bekhor, MD",2,Friday - 10am to 11am
+Tuberculosis,Infectious,"Dr. Jana Preis, MD, MPH",3,Monday - 11am to 12pm
+Tuberculosis,Infectious,"Dr. William Mandell, MD",1,Thursday - 12pm to 1pm
+Tuberculosis,Infectious,"Dr. William Mandell, MD",4,Saturday - 1pm to 2pm
+Tuberculosis,Infectious,"Dr. Dennis Karter, MD",2,Tuesday - 3pm to 4pm
+Tuberculosis,Infectious,"Dr. Dennis Karter, MD",5,Wednesday - 2pm to 3pm
+Tuberculosis,Infectious,"Dr. Nadim Salomon, MD",4,Friday - 6pm to 7pm
+Pneumonia,Infectious,"Dr. William Mandell, MD",2,Tuesday - 2pm to 3pm
+Pneumonia,Infectious,"Dr. Dennis Karter, MD",2,Tuesday - 1pm to 2pm
+Pneumonia,Infectious,"Dr. Dennis Karter, MD",3,Saturday - 4pm to 5pm
+Pneumonia,Infectious,"Dr. David Bekhor, MD",1,Friday - 1pm to 2pm
+Pneumonia,Infectious,"Dr. Jana Preis, MD, MPH",1,Wednesday - 11am to 12pm
+Pneumonia,Infectious,"Dr. William Mandell, MD",3,Tuesday - 12pm to 1pm
+Pneumonia,Infectious,"Dr. William Mandell, MD",5,Monday - 10am to 11am
+Pneumonia,Infectious,"Dr. Dennis Karter, MD",1,Tuesday - 10am to 11am
+Pneumonia,Infectious,"Dr. Dennis Karter, MD",5,Saturday - 3pm to 4pm
+Pneumonia,Infectious,"Dr. Nadim Salomon, MD",4,Tuesday - 5pm to 6pm
+Hypothyroidism,Endocrinol,"Dr. Gillian Katz, MD",4,Saturday - 3pm to 4pm
+Hypothyroidism,Endocrinol,"Dr. Olga Leonardi, MD",1,Thursday - 9am to 10am
+Hypothyroidism,Endocrinol,"Dr. Rahul Agarwal, MD",1,Wednesday - 12pm to 1pm
+Hypothyroidism,Endocrinol,"Dr. Rocio Salas-Whalen, MD",4,Wednesday - 11am to 12pm
+Hypothyroidism,Endocrinol,"Dr. Peter Goulden, MD",4,Saturday - 6pm to 7pm
+Hypothyroidism,Endocrinol,"Dr. Joan Cantero- Lakhanpal, MD",1,Sunday - 12pm to 1pm
+Hypothyroidism,Endocrinol,"Dr. Harry Gruenspan, MD",4,Friday - 4pm to 5pm
+Hypothyroidism,Endocrinol,"Dr. Harry Gruenspan, MD",1,Sunday - 4pm to 5pm
+Hypothyroidism,Endocrinol,"Dr. Joan Cantero- Lakhanpal, MD",3,Thursday - 3pm to 4pm
+Hypothyroidism,Endocrinol,"Dr. Rahul Agarwal, MD",2,Tuesday - 12pm to 1pm
+Hyperthyroidism,Endocrinol,"Dr. Gillian Katz, MD",1,Saturday - 4pm to 5pm
+Hyperthyroidism,Endocrinol,"Dr. Olga Leonardi, MD",5,Tuesday - 12pm to 1pm
+Hyperthyroidism,Endocrinol,"Dr. Rahul Agarwal, MD",1,Saturday - 4pm to 5pm
+Hyperthyroidism,Endocrinol,"Dr. Rocio Salas-Whalen, MD",4,Monday - 5pm to 6pm
+Hyperthyroidism,Endocrinol,"Dr. Peter Goulden, MD",5,Friday - 2pm to 3pm
+Hyperthyroidism,Endocrinol,"Dr. Joan Cantero- Lakhanpal, MD",5,Thursday - 3pm to 4pm
+Hyperthyroidism,Endocrinol,"Dr. Harry Gruenspan, MD",2,Tuesday - 3pm to 4pm
+Hyperthyroidism,Endocrinol,"Dr. Harry Gruenspan, MD",1,Thursday - 11am to 12pm
+Hyperthyroidism,Endocrinol,"Dr. Joan Cantero- Lakhanpal, MD",3,Tuesday - 12pm to 1pm
+Hyperthyroidism,Endocrinol,"Dr. Rahul Agarwal, MD",5,Saturday - 4pm to 5pm
+Bronchial Asthma,Pulmonolog,"Dr. George Castro, MD",5,Saturday - 6pm to 7pm
+Bronchial Asthma,Pulmonolog,"Dr. George Castro, MD",3,Thursday - 9am to 10am
+Bronchial Asthma,Pulmonolog,"Dr. Pervaiz Iqbal, MD, FCCP",5,Friday - 4pm to 5pm
+Bronchial Asthma,Pulmonolog,"Dr. George Castro, MD",4,Thursday - 10am to 11am
+Bronchial Asthma,Pulmonolog,"Dr. George Castro, MD",3,Wednesday - 2pm to 3pm
+Bronchial Asthma,Pulmonolog,"Dr. George Castro, MD",4,Friday - 9am to 10am
+Bronchial Asthma,Pulmonolog,"Dr. George Castro, MD",1,Saturday - 5pm to 6pm
+Bronchial Asthma,Pulmonolog,"Dr. Klaus-Dieter Lessnau, MD",1,Tuesday - 5pm to 6pm
+Bronchial Asthma,Pulmonolog,"Dr. George Castro, MD",1,Wednesday - 2pm to 3pm
+Bronchial Asthma,Pulmonolog,"Dr. Edward Eden, MD",4,Thursday - 10am to 11am
+Heart attack,Cardiologi,"Dr. Sonal Jani, MD",5,Thursday - 5pm to 6pm
+Heart attack,Cardiologi,"Dr. Kenneth Giedd, MD",5,Saturday - 2pm to 3pm
+Heart attack,Cardiologi,"Dr. Azadeh Beheshtian, MD",3,Sunday - 10am to 11am
+Heart attack,Cardiologi,"Dr. Azadeh Beheshtian, MD",3,Friday - 6pm to 7pm
+Heart attack,Cardiologi,"Dr. Pramod Sanghi, MD",5,Thursday - 11am to 12pm
+Heart attack,Cardiologi,"Dr. Dmitry Gorelik, MD",2,Tuesday - 9am to 10am
+Heart attack,Cardiologi,"Dr. Salvatore Cavaleri, MD",4,Tuesday - 9am to 10am
+Heart attack,Cardiologi,"Dr. Abiola Dele-Michael, MD, FACC, MPH",4,Tuesday - 10am to 11am
+Heart attack,Cardiologi,"Dr. Abiola Dele-Michael, MD, FACC, MPH",4,Friday - 3pm to 4pm
+Heart attack,Cardiologi,"Dr. Peter Virzi, MD",2,Monday - 5pm to 6pm
+Migraine,Neurologis,"Dr. Cheryl Cottrol, MD",3,Saturday - 12pm to 1pm
+Migraine,Neurologis,"Dr. Ewa Koziorynska, MD",3,Wednesday - 9am to 10am
+Migraine,Neurologis,"Dr. Christine Fitzpatrick, MD",4,Friday - 3pm to 4pm
+Migraine,Neurologis,"Dr. Michael Carciente, MD",3,Monday - 2pm to 3pm
+Migraine,Neurologis,"Dr. Cynthia Harden, MD",4,Thursday - 12pm to 1pm
+Migraine,Neurologis,"Dr. Cheryl Cottrol, MD",5,Tuesday - 1pm to 2pm
+Migraine,Neurologis,"Dr. Risa Ravitz, MD",5,Tuesday - 9am to 10am
+Migraine,Neurologis,"Dr. Afshan Khan, MD",3,Sunday - 2pm to 3pm
+Migraine,Neurologis,"Dr. Pascal Saremsky, MD",2,Sunday - 12pm to 1pm
+Migraine,Neurologis,"Dr. Yoni Dokko, MD",3,Monday - 9am to 10am
+Paralysis (brain hemorrhage),Neurologis,"Dr. Cheryl Cottrol, MD",1,Tuesday - 11am to 12pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Ewa Koziorynska, MD",4,Monday - 11am to 12pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Christine Fitzpatrick, MD",1,Wednesday - 6pm to 7pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Michael Carciente, MD",3,Sunday - 4pm to 5pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Cynthia Harden, MD",5,Thursday - 5pm to 6pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Cheryl Cottrol, MD",4,Tuesday - 5pm to 6pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Risa Ravitz, MD",3,Friday - 11am to 12pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Afshan Khan, MD",2,Sunday - 1pm to 2pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Pascal Saremsky, MD",3,Friday - 2pm to 3pm
+Paralysis (brain hemorrhage),Neurologis,"Dr. Yoni Dokko, MD",2,Thursday - 4pm to 5pm
+Cervical spondylosis,Orthopedic,"Dr. Aleksey Lazarev, MD",5,Thursday - 11am to 12pm
+Cervical spondylosis,Orthopedic,"Dr. Imran Ashraf, MD",2,Friday - 10am to 11am
+Cervical spondylosis,Orthopedic,"Dr. Roman Isaac, MD",1,Tuesday - 10am to 11am
+Cervical spondylosis,Orthopedic,"Dr. Sean Lager, MD",1,Tuesday - 9am to 10am
+Cervical spondylosis,Orthopedic,"Dr. Jeffrey Yormak, MD, FAAOS",1,Tuesday - 9am to 10am
+Cervical spondylosis,Orthopedic,"Dr. Marco Yeung, MD",1,Wednesday - 10am to 11am
+Cervical spondylosis,Orthopedic,"Dr. Marco Yeung, MD",1,Friday - 3pm to 4pm
+Cervical spondylosis,Orthopedic,"Dr. Marco Yeung, MD",2,Monday - 3pm to 4pm
+Cervical spondylosis,Orthopedic,"Dr. Johnny Arnouk, MD",1,Friday - 3pm to 4pm
+Cervical spondylosis,Orthopedic,"Dr. Johnny Arnouk, MD",4,Wednesday - 11am to 12pm
+Osteoarthritis,Orthopedic,"Dr. Aleksey Lazarev, MD",2,Monday - 3pm to 4pm
+Osteoarthritis,Orthopedic,"Dr. Imran Ashraf, MD",5,Sunday - 2pm to 3pm
+Osteoarthritis,Orthopedic,"Dr. Roman Isaac, MD",2,Wednesday - 2pm to 3pm
+Osteoarthritis,Orthopedic,"Dr. Sean Lager, MD",3,Monday - 12pm to 1pm
+Osteoarthritis,Orthopedic,"Dr. Jeffrey Yormak, MD, FAAOS",5,Tuesday - 6pm to 7pm
+Osteoarthritis,Orthopedic,"Dr. Marco Yeung, MD",1,Thursday - 9am to 10am
+Osteoarthritis,Orthopedic,"Dr. Marco Yeung, MD",1,Wednesday - 1pm to 2pm
+Osteoarthritis,Orthopedic,"Dr. Marco Yeung, MD",3,Tuesday - 12pm to 1pm
+Osteoarthritis,Orthopedic,"Dr. Johnny Arnouk, MD",1,Saturday - 4pm to 5pm
+Osteoarthritis,Orthopedic,"Dr. Johnny Arnouk, MD",5,Saturday - 3pm to 4pm
+Chicken pox,Pediatrici,"Dr. Carolyn Chang, MD",5,Thursday - 11am to 12pm
+Chicken pox,Pediatrici,"Dr. Jenny Shih, MD",5,Saturday - 4pm to 5pm
+Chicken pox,Pediatrici,"Dr. Eda Chao, MD",2,Thursday - 1pm to 2pm
+Chicken pox,Pediatrici,"Dr. Piyush Mehta, MD",2,Tuesday - 4pm to 5pm
+Chicken pox,Pediatrici,"Dr. Piyush Mehta, MD",5,Monday - 9am to 10am
+Chicken pox,Pediatrici,"Dr. Jenny Shih, MD",2,Tuesday - 5pm to 6pm
+Chicken pox,Pediatrici,"Dr. Carolyn Chang, MD",2,Thursday - 2pm to 3pm
+Chicken pox,Pediatrici,"Dr. Eda Chao, MD",4,Sunday - 9am to 10am
+Chicken pox,Pediatrici,"Dr. Zvi Ben-Zvi, MD",2,Tuesday - 10am to 11am
+Chicken pox,Pediatrici,"Dr. Mei Wong, DO",4,Thursday - 4pm to 5pm
+Varicose veins,Vascular S,"Dr. Jennifer Svahn, MD",4,Tuesday - 12pm to 1pm
+Arthritis,Rheumatolo,"Dr. Priya Chokshi, MD",2,Monday - 11am to 12pm
+Arthritis,Rheumatolo,"Dr. Priya Chokshi, MD",2,Friday - 1pm to 2pm
+Arthritis,Rheumatolo,"Dr. Jay Adlersberg, MD",2,Sunday - 9am to 10am
+Arthritis,Rheumatolo,"Dr. Priya Chokshi, MD",1,Tuesday - 4pm to 5pm
+Arthritis,Rheumatolo,"Dr. Jay Adlersberg, MD",4,Sunday - 2pm to 3pm
+Arthritis,Rheumatolo,"Dr. Waseem Mir, MD",1,Saturday - 4pm to 5pm
+Arthritis,Rheumatolo,"Dr. Olivia Ghaw, MD",5,Thursday - 12pm to 1pm
+Arthritis,Rheumatolo,"Dr. Ariel Teitel, MD",2,Sunday - 3pm to 4pm
+Arthritis,Rheumatolo,"Dr. Ariel Teitel, MD",5,Monday - 5pm to 6pm
+Urinary tract infection,Urologist,"Dr. John Sfakianos, MD",1,Saturday - 11am to 12pm
+Urinary tract infection,Urologist,"Dr. Michael Rotman, MD",4,Wednesday - 10am to 11am
+Urinary tract infection,Urologist,"Dr. Edward Zoltan, MD, FACS",3,Friday - 9am to 10am
+Urinary tract infection,Urologist,"Dr. John Sfakianos, MD",2,Monday - 4pm to 5pm
+Urinary tract infection,Urologist,"Dr. Yan Wolfson, MD",5,Friday - 4pm to 5pm
+Urinary tract infection,Urologist,"Dr. Sovrin Shah, MD",5,Friday - 9am to 10am
+Urinary tract infection,Urologist,"Dr. Yan Wolfson, MD",5,Friday - 5pm to 6pm
+Urinary tract infection,Urologist,"Dr. Jerry Blaivas, MD",1,Monday - 1pm to 2pm
+Urinary tract infection,Urologist,"Dr. Barbara Chubak, MD",1,Saturday - 2pm to 3pm
+Urinary tract infection,Urologist,"Dr. Michael Brodherson, MD",3,Saturday - 4pm to 5pm

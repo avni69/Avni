@@ -49,6 +49,7 @@ the output will be a list of 5 doctors such as-
 You have been Diagnosed with :  <h2>Fungal infection</h2>
 
 The details of the suggested doctors are:
+
 Name:Dr.Â Sanjosh Singh,Â DO         Specialization: Dermatolog      Rating:5        Schedule:Saturday - 5pm to 6pm
 
 Name:Dr.Â Bradley Glodny,Â MD        Specialization: Dermatolog      Rating:1        Schedule:Sunday - 1pm to 2pm

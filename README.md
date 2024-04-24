@@ -61,6 +61,9 @@ Name:Dr.Â Morgan Rabach,Â MD         Specialization: Dermatolog      Rating:4 
 Name:Dr.Â Alison Gruen,Â MD          Specialization: Dermatolog      Rating:4        Schedule:Thursday - 11am to 12pm
 
 
+Google Colab file: https://colab.research.google.com/drive/1XFUxnvGgwWsrjJbjXpKV3gX2YVBQBvRS?usp=sharing
+
+
 
 
 
